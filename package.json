@@ -1,6 +1,6 @@
 {
   "name": "relay-dsh-plugin-session-import",
-  "version": "0.2.4-rc.1-worka-public.1",
+  "version": "0.2.4-rc.1-worka-public.2",
   "description": "Provider-neutral session import hub for DeepSeek Harness plugins.",
   "keywords": [
     "dsh-plugin",
